@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! 👋 I'm Rafael Rodrigues, a data scientist with a keen interest in resolve business issues and give answers to people problems, giving meaning to data and stepping forward on studies further more. I thrive on exploring new technologies, solving problems, and creating innovative solutions.
+Hi there! 👋 I'm Rafael Rodrigues, a data analyst with a keen interest in resolve business issues and give answers to people problems, giving meaning to data and stepping forward on studies further more. I thrive on exploring new technologies, solving problems, and creating innovative solutions.
 
 <!-- ## Skills
 
