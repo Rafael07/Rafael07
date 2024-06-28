@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! 👋 I'm Rafael Rodrigues, a data analyst with a keen interest in resolve business issues and give answers to people problems, giving meaning to data and stepping forward on studies further more. I thrive on exploring new technologies, solving problems, and creating innovative solutions.
+Hi there! 👋 I'm Rafael Rodrigues and I work making a difference through data strategies! I've been working in IT for over 10 years, 5 years as a data analyst and 1 year as a planning and project manager in the public service. I seek to implement the best principles and methodologies on the market to leverage business, increase earnings and add value to institutions.
 
 <!-- ## Skills
 
@@ -10,8 +10,7 @@ Hi there! 👋 I'm Rafael Rodrigues, a data analyst with a keen interest in reso
 - **BI:** Power BI, Metabase
 - **Data Analysis:** Excel, SQL
 - **Programming:** Python
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Database Management:** MySQL, PostgreSQL, MongoDB
+- **DB:** PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
 
 ### Soft Skills
@@ -23,8 +22,8 @@ Hi there! 👋 I'm Rafael Rodrigues, a data analyst with a keen interest in reso
 
 ## Interests
 
-- **Data Science:** Exploring patterns and deriving insights from data.
-- **Machine Learning:** Leveraging algorithms to make predictive models.
+- **Data Analysis:** Exploring patterns and deriving insights from data.
+- **Data Engineering:** Develop, implement and maintain systems that take in raw data and produce business valuable data.
 - **Business Intelligence:** Contributing to impactful business projects.
 
 ## BI Projects
