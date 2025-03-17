@@ -1,17 +1,18 @@
 ## About Me
 
-Hi there! 👋 I'm Rafael Rodrigues and I work making a difference through data strategies! I've been working in IT for over 10 years, 5 years as a data analyst and 1 year as a planning and project manager in the public service. I seek to implement the best principles and methodologies on the market to leverage business, increase earnings and add value to institutions.
+Hi there! 👋 I'm Rafael Rodrigues and I work making difference through data strategies! I've been working in IT for over 10 years, 5 years with data, 1 year as a planning and project manager in the public service. I seek to implement the best principles and methodologies on the market to leverage business, increase earnings and add value to institutions.
 
 <!-- ## Skills
 
 [![My Skills]('https://api.iconify.design/logos/microsoft-power-bi.svg')]('https://api.iconify.design/logos/microsoft-power-bi.svg') -->
 
 ### Technical Skills
-- **BI:** Power BI, Metabase
-- **Data Analysis:** Excel, SQL
-- **Programming:** Python
+- **BI:** Power BI
+- **Data Analysis:** Excel
+- **Languages:** Python, SQL
 - **DB:** PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
+- **Other stack:** Git, Airflow, Docker, Meltano
+- **Cloud and Data Platforms:** GCP, AWS, Databricks
 
 ### Soft Skills
 - Problem-solving
@@ -24,7 +25,11 @@ Hi there! 👋 I'm Rafael Rodrigues and I work making a difference through data 
 
 - **Data Analysis:** Exploring patterns and deriving insights from data.
 - **Data Engineering:** Develop, implement and maintain systems that take in raw data and produce business valuable data.
-- **Business Intelligence:** Contributing to impactful business projects.
+
+## Data Engineering Projects
+
+- [Tech challenge to build a pipeline that extracts the data everyday from both sources and write the data first to local disk, and second to a PostgreSQL database](https://github.com/Rafael07/LH_ED_Rafael07): Work with Meltano and Airflow to deliver a robust data pipeline.
+- [ETL pipelines to extract data from various sources and load on containerized database](https://github.com/Rafael07/northwind_sql): Uses Northwind famous database on a project to showcase Python, SQL, ETL, Airflow and Docker skills, by ingestin data from different sources on the file system, organizing and wrangling the data and then loadin on a container database.
 
 ## BI Projects
 
@@ -37,8 +42,5 @@ Hi there! 👋 I'm Rafael Rodrigues and I work making a difference through data 
 - [House Rent](https://github.com/Rafael07/minor-projects/tree/3b3e65ebcb4bd54b182b1d292ba9f95acbcb25d9/house_rent): Assist clients in finding the best value place to rent based on their preferences. Our focus is on optimizing key criteria such as cost, amenities, and location. *#EDA*, *#Data analysis*
 - [Retail Store Metrics Analysis](https://github.com/Rafael07/minor-projects/tree/3b3e65ebcb4bd54b182b1d292ba9f95acbcb25d9/retail_store): Help a retail store to enhance performance tracking and decision-making by creating key metrics from available client and sales databases. *#EDA*, *#Data analysis*
 
-## Goals
-
-I aim to further enhance my skills in Data Science and contribute meaningfully to projects that align with my interests. Additionally, I'm enthusiastic about collaborating with like-minded individuals on exciting ventures.
 
 Let's connect and explore innovative opportunities together! 🚀
